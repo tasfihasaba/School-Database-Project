@@ -1,0 +1,21 @@
+Course: true, 771, MAT, 4
+Faculty:
+Faculty: true
+Faculty: MAT,false
+Faculty: Superman,1938,PHY,true
+
+Student:
+Student: false
+Student: Math,false
+Student: Wonderwoman,1941,JST,true
+
+GeneralStaff:
+GeneralStaff: advise students
+GeneralStaff: Sanitation,clean
+GeneralStaff: Flash Gordon,1934,Security,safety
+
+Course: true,777,CMP,4
+Course: true,711,CMP,4
+Course: true,723,MAT,4
+Course: false,168,CMP,4
+Course: false,338,CMP,4
