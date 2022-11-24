@@ -1,0 +1,25 @@
+Course: true,771,MAT,4
+Course: true,777,CMP,4
+Course: true,711,CMP,4
+Course: true,723,MAT,4
+Course: false,168,CMP,4
+Course: false,338,CMP,4
+
+Faculty: false
+Faculty: true
+Faculty: MAT,false
+Faculty: Superman,1938,PHY,true
+
+Student: undeclared,
+Student: undeclared,
+Student: Math,
+Student: Wonderwoman,1941,JST,
+Student: BORA,1995,CMP,
+
+GeneralStaff: 
+GeneralStaff: advise students
+GeneralStaff: Sanitation,clean
+GeneralStaff: Flash Gordon,1934,Security,safety
+
+
+
